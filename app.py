@@ -1,5 +1,5 @@
 nombre = 'Adriana'
-apellido = 'Mi Amor'
+apellido = 'Mi Reina'
 
-saludo = f'\nHola {nombre} {apellido} como estas.'
+saludo = f'\nHola {nombre} {apellido} como estas. Mamasita'
 print(saludo)
